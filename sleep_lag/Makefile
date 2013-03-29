@@ -1,2 +1,2 @@
 all:
-	g++ lag.cc -o lag
+	gcc -x c lag.c -o lag
