@@ -1,0 +1,1 @@
+./bin/camstats in:=my_image_topic > out.dat
